@@ -1,0 +1,20 @@
+[
+    {
+        "conditions": {
+            "all": [
+                {
+                    "name": "bool",
+                    "operator": "is_true",
+                    "value" : true
+                }
+            ]
+        },
+        "actions": [
+            {
+                "name": "nothing"
+            }
+            
+        ],
+        "occurrences": 5
+    }
+]
